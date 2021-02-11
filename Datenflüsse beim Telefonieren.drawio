@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T11:17:17.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="IQbofFR55fQ7Yc5vxSkn" version="14.1.3" type="github"><diagram id="i1aspWeuF-IFRptB1cZZ" name="Page-1">5VjLctowFP0alnRsywazJDRJN5mSkk6mK0a1hK0iS44s88jXVw7yQ8g0tAH6mmEhHclX0jnnWtf0wCTd3AqYJXccYdrzHLTpgfc9z3N9z+uVPwdtd0gINBALgvSkBpiRZ6xBR6MFQTg3JkrOqSSZCUacMRxJA4NC8LU5bcGpuWoGY2wBswhSG30kSCb6FN6wwT9gEifVyu5gtBtJYTVZnyRPIOLrFgSue2AiOJe7VrqZYFqSV/Gye+7mwGi9MYGZPOaBMZvjeYDCL27hgPshf+iH930dZQVpoQ/8OcdCb1huKxZUJEW46lytEyLxLINRObJWmisskSlVPVc17U1VK2Ah8aYF6U3eYp5iKbZqih4FgSZsW3lI99cN/y7QWNLifqgxqCWP69ANK6qhiTnA6iB8/PQUPjxlBHybgOn84+qm71kk2QQxNC7dpnoRhXlOoi5eMLLMtkeUzUrr1EHHoStMYAolWZnhu5jQK0w5UQvXpPsuMEiv868KkfNCRFg/1XbZa4H2VZFQxFhagV6EqY/961r5llZTwiy5lBWlKVAuBV/iCadcKIRxVpp9QSjdgyAlMStVVrqpRAFXpbGJel+M9UBKEKKHMkXwgiFc7t+pTWFlxlG2qOgGZrJ4wE4Wv8M23rlyZXC5XFE3wYuXfrCb4W/NKWf0LjDUqV9tP59Vpsy+c9msGlqqzpSKOIW5fOtd8Sb7A3/UzUv7rvAueVeM/oO7wvK1v0/n0b62QgXgss6uEqsl2B3/SuiiYEuG5fMfZe+g4+1+WXu7dsFoMaQK3axsUsKWZ3C265zGxiAwybVIO9rErwU6t4WPqE//Uk2AfyJNrEDn1sSuQ2cktWT5Z+pQEJoFCui4iE9Uh6pu89G806v56wFcfwc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-11T11:19:18.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="UKTx0DigI3Vjjc9kTEOM" version="14.1.3" type="github">
+  <diagram id="i1aspWeuF-IFRptB1cZZ" name="Page-1">
+    <mxGraphModel dx="1422" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="An_e_5d8Y1u03Q7oT-8Q-1" value="User" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="140" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-2" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="210" as="sourcePoint" />
+            <mxPoint x="413" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-4" value="Pin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-6" value="" style="endArrow=classic;html=1;" parent="1" target="168WRq8Tqpi3jC3P_OvF-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-7" value="Sendemast" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="400" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="470" as="sourcePoint" />
+            <mxPoint x="409.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-10" value="Mobilfunknetz" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-11" value="" style="shape=link;html=1;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="359" y="270" as="sourcePoint" />
+            <mxPoint x="459" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-12" value="" style="shape=link;html=1;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="359" y="340" as="sourcePoint" />
+            <mxPoint x="459" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="168WRq8Tqpi3jC3P_OvF-14" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
